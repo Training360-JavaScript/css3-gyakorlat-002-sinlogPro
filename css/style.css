@@ -179,7 +179,7 @@ after pszeudo-elemei */
  elemeken belül lévő span elemek before vagy after pszeudo-elemei */
  .menu__hamburger--htx.is-active span::after, 
  .menu__hamburger--htx.is-active span::before
- /*.menu__hamburger--htx.is-active span:is(::after, ::before)*/
+ /*.menu__hamburger--htx.is-active span:is(::after, ::before) */
 {
   transition-delay: 0s, 0.3s;
 }
